@@ -1,0 +1,12 @@
+.board{ 
+    display: grid;
+    grid-template-columns: 50px 50px 50px 50px 50px 50px 50px 50px 50px 50px;
+    grid-template-rows: 50px 50px 50px 50px 50px 50px 50px 50px 50px 50px;
+    justify-content: center;
+   }
+   .box {
+    background-color: rgb(241, 236, 189);
+    border: 2px solid rgb(102, 98, 98);
+   }
+
+   /* 120px 120px 120px 120px 120px 120px 120px 120px 120px 120px  50px 80px 80px 80px 80px 80px 80px 80px 80px 80px*/
